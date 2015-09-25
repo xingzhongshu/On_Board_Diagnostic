@@ -1,0 +1,4 @@
+SerialCp	KEYWORD1
+serialInit	KEYWORD2
+serialDataProcess	KEYWORD2
+serial_Rx_handler	KEYWORD2
